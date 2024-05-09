@@ -5,11 +5,7 @@ import datetime
 import random
 from PIL import Image
 
-# Open the image from local file path
-streamlit_logo = Image.open("/Users/kinan/Desktop/st1.png")
 
-# Display Streamlit logo with a link to streamlit.io
-st.logo(streamlit_logo, link="https://streamlit.io/")
 
 # Set page configuration once
 st.set_page_config(page_title="Spline Design Viewer", layout="wide")
