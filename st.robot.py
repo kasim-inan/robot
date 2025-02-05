@@ -78,4 +78,4 @@ with st.sidebar:
     st.slider("Choose your fun level", min_value=1, max_value=100, value=50)
 
 # Celebratory footer message
-st.markdown("### 🎉🎈 Celebrate Good Times! 🎈🎉")
+st.markdown("### 🎉🎈 Celebrate Good Times! 🎈🎉 -  2025 /test")
