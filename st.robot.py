@@ -13,7 +13,6 @@ st.set_page_config(page_title="Spline Design Viewer", layout="wide")
 # App title
 st.title("Hi, I am Streamlit Robot. Today is my birthday!")
 
-# Layout columns for iframe and button
 col1, col2, col3, col4 = st.columns([1, 2, 1, 1])
 
 # Spline 3D model iframe
