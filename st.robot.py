@@ -17,7 +17,7 @@ col1, col2, col3, col4 = st.columns([1, 2, 1, 1])
 
 # Spline 3D model iframe
 with col2:
-    spline_url = "https://my.spline.design/robotfollowcursorforlandingpage-a8ce559ec2b984ce43d73a7786dd8461/"
+    spline_url = <iframe src='https://my.spline.design/robotfollowcursorforlandingpage-f18cb36229bc309b74871bc0ba75de1b/
     components.html(f'<iframe src="{spline_url}" style="width:100%; height:386px; border:none; padding:20px;"></iframe>', height=355)
 
 # Button to trigger celebrations
